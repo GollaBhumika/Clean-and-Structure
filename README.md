@@ -113,6 +113,79 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook.
 RFM analysis helps identify high-value and less-active customers, providing insights that can guide customer retention, loyalty programs, and re-engagement strategies.
 
 
+## Milestone 05: Capstone — Streamlit Dashboard
+
+### Project Overview
+
+This milestone focuses on building an interactive retail sales dashboard using Streamlit to present business insights through KPI metrics, visualizations, and interactive filters.
+
+### Objectives
+
+- Develop an interactive web dashboard for retail sales analysis.
+- Display key performance indicators (KPIs) using Streamlit metric cards.
+- Present sales trends and performance through interactive charts.
+- Enable users to explore sales data using sidebar filters.
+- Summarize key findings and provide business recommendations.
+
+### Tools & Technologies
+
+- Python
+- Pandas
+- Streamlit
+- Plotly
+- Jupyter Notebook
+- GitHub
+
+### Dashboard Features
+
+1. **Executive Summary** — Overview of retail sales performance using KPI metrics.
+2. **Key Findings** — Insights from category-wise, region-wise, and monthly sales analysis.
+3. **Recommendations** — Suggested business actions based on sales insights.
+4. **Interactive Filters** — Filter sales data by region and product category.
+5. **Sales Visualizations** — Charts for category sales, regional performance, monthly trends, and top 10 products.
+6. **Dataset Preview** — View filtered retail sales records.
+
+### Key Deliverables
+
+- Interactive Streamlit dashboard.
+- KPI cards and sales visualizations.
+- Sidebar filters for data exploration.
+- Business findings and recommendations.
+- `app.py` — Dashboard application.
+- `requirements.txt` — Required Python packages.
+
+### How to Run the Dashboard
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
+Open the local URL displayed in the terminal to access the dashboard.
+
+### Business Impact
+
+The dashboard helps business stakeholders explore retail sales performance, identify top-selling products, compare regional and category-wise sales, and understand monthly sales trends to support data-driven decision-making.
+
+### Deliverable
+
+`app.py`
+
+### Conclusion
+
+This milestone demonstrates how Streamlit and interactive data visualizations can transform retail sales analysis into an accessible dashboard for business reporting and decision-making.
+
 ## Organization
+
 **Mint Technologies** | Data Analytics Project
+
+
+
 
